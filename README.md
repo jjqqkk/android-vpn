@@ -1,5 +1,5 @@
-# 安卓版VPN客户端，永久免费
+# VPN Plus for Android
 
-### [点此下载APK](https://github.com/jjqqkk/android/releases/download/1812/vpn-1812.apk)
+Free VPN client for Android, bundled with video search and downloader.
 
-![Scan to download](qr.png)
+[Download APK](https://github.com/jjqqkk/android/releases/download/19010/vpn-19010.apk)
