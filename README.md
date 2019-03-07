@@ -1,6 +1,20 @@
 # VPN Plus for Android
 
-![](home.png)
+VPN Plus is a free Android VPN client that combines VPN and video search. Use this app to protect online privacy and watch videos without being tracked by video sites.
+
+## Scan QR to get the app
+
+
+
+## How to use
+
+1. Use the VPN switch button on the top left corner to turn on/off VPN.
+
+2. Use the search bar to search videos. Search results are categorized into two groups: All ages and above 18. It is your own obligation to obey the laws of your country and decide which vids can not played.
+
+3. Play video by clicking on a search result.
+
+
 
 ## Install Google services
 
