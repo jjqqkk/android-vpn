@@ -16,6 +16,8 @@ VPN Plus is a free Android VPN client that combines VPN and video search. Use th
 
 ## Install Google services
 
+![](getgoogle.png)
+
 If there is no Google services pre-installed by your phone maker, here we will help you to get Google services and Google Play step by step.
 
 Download and install these APKs **in the order listed below**.
