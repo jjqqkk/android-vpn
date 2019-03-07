@@ -1,5 +1,7 @@
 # VPN Plus for Android
 
+![](home.png)
+
 ## Install Google services
 
 You can install Google services and Google Play manually if your Android device does not have Google services pre-installed by the device maker. 
