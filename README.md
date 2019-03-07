@@ -2,9 +2,9 @@
 
 VPN Plus is a free Android VPN client that combines VPN and video search. Use this app to protect online privacy and watch videos without being tracked by video sites.
 
-![](qr.png)
-
 ![](home.png)
+
+![](qr.png)
 
 ## How to use
 
