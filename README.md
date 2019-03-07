@@ -4,7 +4,7 @@ VPN Plus is a free Android VPN client that combines VPN and video search. Use th
 
 ## Scan QR to get the app
 
-
+![](qr.png)
 
 ## How to use
 
