@@ -16,11 +16,15 @@ VPN Plus is a free Android VPN client that combines VPN and video search. Use th
 
 ## Install Google services
 
-You can install Google services and Google Play manually if your Android device does not have Google services pre-installed by the device maker. 
+If there is no Google services pre-installed by your phone maker, here we will help you to get Google services and Google Play step by step.
 
-To install Google services, download and install these APKs in the listed order.
+Download and install these APKs **in the order listed below**.
 
-**Google services framework**
+**Google services framework.**
+
+Check your phone's *Settings* and get the correct **Android version**. 
+
+Many phone makers ship their own OS. Don't be confused. For example, MIUI 10.2 is based on Android 8.0. Here, "8.0" is the correct version number.
 
 Android 9: [google-services-framework-9.apk](https://github.com/jjqqkk/android-vpn/releases/download/1903/google-services-framework-9.apk)
 
@@ -44,5 +48,4 @@ If the above APKs do not work on your phone, pick up the right APK from apkmirro
 3. [google-play-services](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 4. [google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
-
-[All Google APKs on apkmirror.com](https://www.apkmirror.com/apk/google-inc/)
+For those want to get more APKs, check out [all Google APKs on apkmirror.com](https://www.apkmirror.com/apk/google-inc/)
