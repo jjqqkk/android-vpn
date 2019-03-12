@@ -6,6 +6,8 @@ VPN Plus is a free Android VPN client that combines VPN and video search. Use th
 
 ![](qr.png)
 
+[Download APK](https://github.com/jjqqkk/android-vpn/releases/download/1903/vpn-plus-19031.apk)
+
 ## How to use
 
 1. Use the VPN switch button on the top left corner to turn on/off VPN.
